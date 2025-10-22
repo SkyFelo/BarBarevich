@@ -1,0 +1,2 @@
+log1:111 - waiter
+log2:222 - admin
