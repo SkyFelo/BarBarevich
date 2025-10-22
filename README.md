@@ -80,7 +80,10 @@
 
 ## 🖼️ Скриншоты
 
-```html
 <p align="center">
   <img src="./images/authorization.png" alt="Главное окно программы" width="600"/>
+</p>
+
+<p align="center">
+  <img src="./images/reservation.png" alt="Окно бронирования" width="600"/>
 </p>
