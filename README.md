@@ -84,5 +84,5 @@
 
 ```html
 <p align="center">
-  <img src="./images/main_window.png" alt="Главное окно программы" width="600"/>
+  <img src="./images/authoriztion.png" alt="Главное окно программы" width="600"/>
 </p>
