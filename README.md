@@ -81,9 +81,17 @@
 ## 🖼️ Скриншоты
 
 <p align="center">
-  <img src="./images/authorization.png" alt="Главное окно программы" width="600"/>
+  <img src="./images/authorization.png" alt="Авторизация" width="200"/>
 </p>
 
 <p align="center">
-  <img src="./images/reservation.png" alt="Окно бронирования" width="600"/>
+  <img src="./images/tables.png" alt="Визуальная интерактивная схема зала" width="600"/>
+</p>
+
+<p align="center">
+  <img src="./images/reservation.png" alt="Окно просмотра бронирований" width="600"/>
+</p>
+
+<p align="center">
+  <img src="./images/new_reservation.png" alt="Составление нового бронирования" width="600"/>
 </p>
